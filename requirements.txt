@@ -1,0 +1,23 @@
+# Data & ML
+pandas>=1.5.3
+numpy>=1.24.3
+scikit-learn>=1.2.2
+yfinance>=0.2.18
+
+# Dashboard & Visualization
+streamlit>=1.22.0
+plotly>=5.14.1
+
+# Model persistence & utils
+joblib>=1.2.0
+python-dateutil>=2.8.2
+requests>=2.28.0
+python-dotenv==1.0.0
+
+# Report generation
+reportlab>=3.6.12
+matplotlib
+kaleido>=0.2.1
+
+# Test (optional, for CI/local)
+pytest>=7.0.0
